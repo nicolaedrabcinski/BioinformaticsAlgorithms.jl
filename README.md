@@ -1,12 +1,11 @@
-# My Templates.jl Repository
+# Bioinformatics Algorithms in Julia
 
-This repository contains templates and examples in Julia for various tasks in life sciences and technology.
+This repository contains a collection of bioinformatics algorithms implemented in Julia.
 
-## Contents
+## Installation
 
-- `distributions`: Folder containing Julia notebooks for different probability distributions.
-- `data_analysis`: Folder with scripts for data analysis in Julia.
+To run these algorithms, make sure you have Julia installed. Clone the repository and install the necessary packages:
 
-## Usage
-
-Feel free to explore the folders and use the templates provided here for your projects!
+```bash
+git clone https://github.com/nicolaedrabcinski/BioinformaticsAlgorithms.jl.git
+cd BioformaticsAlgorithms.jl
